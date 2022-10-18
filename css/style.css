@@ -1,0 +1,22 @@
+.main{
+    width: 100%;
+    min-height: 1000px;
+    background: grey;
+    float: left;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* flex-direction:column-reverse; */
+    /* flex-wrap: wrap-reverse; */
+    /* justify-content: space-around; */
+    /* align-items: stretch; */
+}
+.demo{
+    width: 200px;
+    min-height: 200px;
+    background: red;
+    float: left;
+    margin: 20px;
+    font-size: 70px;
+    color: white;
+}
